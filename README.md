@@ -18,8 +18,8 @@ Copier `dist/pocsag.fap` dans `apps/Sub-GHz/` sur la carte SD du Flipper.
 Avec le firmware Flipper (ufbt) :
 
 ```
-ufbt          # produit dist/pocsag.fap
-ufbt launch   # compile et lance sur le Flipper connecté
+~/.local/share/ufbt-venv/bin/ufbt          # produit dist/pocsag.fap
+~/.local/share/ufbt-venv/bin/ufbt launch   # compile et lance sur le Flipper connecté
 ```
 
 ## Tests (PC)
