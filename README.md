@@ -48,3 +48,7 @@ multimon-ng -t raw -a POCSAG512 -a POCSAG1200 -a POCSAG2400 out.raw
 ## Avertissement
 
 N'émettre que sur des fréquences et avec une puissance autorisées dans votre pays, et uniquement vers du matériel dont vous êtes responsable.
+
+## Licence
+
+MIT — voir [LICENSE](LICENSE).
